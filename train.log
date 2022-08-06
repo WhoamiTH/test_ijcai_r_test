@@ -1,0 +1,54 @@
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_MLP_bm_20000/record_1/MLP_bm_20000_1
+----------------------
+
+
+
+epoch 501, loss 2525.6028
+epoch 1001, loss 1916.6993
+epoch 1501, loss 1576.1354
+epoch 2001, loss 1304.1118
+save model ./test_glass5/model_MLP_bm_2000/record_1/MLP_bm_2000_1
+epoch 2501, loss 1190.7729
+epoch 3001, loss 913.4230
+epoch 3501, loss 782.8098
+epoch 4001, loss 660.4976
+epoch 4501, loss 560.7634
+epoch 5001, loss 477.3298
+save model ./test_glass5/model_MLP_bm_5000/record_1/MLP_bm_5000_1
+epoch 5501, loss 407.7082
+epoch 6001, loss 374.9648
+epoch 6501, loss 298.0175
+epoch 7001, loss 251.6765
+epoch 7501, loss 215.0230
+epoch 8001, loss 184.3720
+save model ./test_glass5/model_MLP_bm_8000/record_1/MLP_bm_8000_1
+epoch 8501, loss 157.8091
+epoch 9001, loss 134.5405
+epoch 9501, loss 115.2860
+epoch 10001, loss 98.0465
+save model ./test_glass5/model_MLP_bm_10000/record_1/MLP_bm_10000_1
+epoch 10501, loss 84.2597
+epoch 11001, loss 72.2282
+epoch 11501, loss 61.9074
+epoch 12001, loss 53.0673
+epoch 12501, loss 45.3381
+epoch 13001, loss 38.6950
+epoch 13501, loss 33.1911
+epoch 14001, loss 28.4895
+epoch 14501, loss 24.3354
+epoch 15001, loss 20.7842
+save model ./test_glass5/model_MLP_bm_15000/record_1/MLP_bm_15000_1
+epoch 15501, loss 17.8598
+epoch 16001, loss 15.2554
+epoch 16501, loss 13.0618
+epoch 17001, loss 12.1653
+epoch 17501, loss 10.3799
+epoch 18001, loss 8.9149
+epoch 18501, loss 7.6199
+epoch 19001, loss 5.9954
+epoch 19501, loss 5.1631
+epoch 20001, loss 4.4326
+save model ./test_glass5/model_MLP_bm_20000/record_1/MLP_bm_20000_1
+save model ./test_glass5/model_MLP_bm_20000/record_1/MLP_bm_20000_1
+running_time is 118.71470200000002
