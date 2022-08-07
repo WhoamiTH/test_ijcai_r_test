@@ -1,0 +1,2827 @@
+/home/z5102138/anaconda3/envs/py36/bin/python
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_1
+----------------------
+
+
+
+epoch 501, loss 3115.4829
+epoch 1001, loss 2030.0767
+epoch 1501, loss 1486.3193
+epoch 2001, loss 1064.1571
+save model ./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_1
+epoch 2501, loss 942.7331
+epoch 3001, loss 1286.8649
+epoch 3501, loss 695.4349
+epoch 4001, loss 702.0035
+epoch 4501, loss 690.1500
+epoch 5001, loss 745.9816
+save model ./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_1
+epoch 5501, loss 819.6226
+epoch 6001, loss 687.9156
+epoch 6501, loss 698.6038
+epoch 7001, loss 528.3005
+epoch 7501, loss 581.6094
+epoch 8001, loss 641.4437
+save model ./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_1
+epoch 8501, loss 487.1538
+epoch 9001, loss 590.4884
+epoch 9501, loss 583.0995
+epoch 10001, loss 549.0060
+save model ./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_1
+epoch 10501, loss 550.4900
+epoch 11001, loss 603.6194
+epoch 11501, loss 487.5092
+epoch 12001, loss 522.7324
+epoch 12501, loss 490.5102
+epoch 13001, loss 504.0794
+epoch 13501, loss 382.5469
+epoch 14001, loss 434.4479
+epoch 14501, loss 437.7250
+epoch 15001, loss 535.4100
+save model ./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_1
+epoch 15501, loss 489.5378
+epoch 16001, loss 369.5623
+epoch 16501, loss 430.5901
+epoch 17001, loss 540.7606
+epoch 17501, loss 433.2329
+epoch 18001, loss 540.4023
+epoch 18501, loss 534.4749
+epoch 19001, loss 429.7625
+epoch 19501, loss 361.9712
+epoch 20001, loss 492.1409
+save model ./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_1
+save model ./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_1
+running_time is 749.611239742
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_2
+----------------------
+
+
+
+epoch 501, loss 2257.8193
+epoch 1001, loss 1211.2897
+epoch 1501, loss 979.1001
+epoch 2001, loss 1035.6213
+save model ./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_2
+epoch 2501, loss 791.5305
+epoch 3001, loss 664.2148
+epoch 3501, loss 647.0605
+epoch 4001, loss 844.2832
+epoch 4501, loss 503.5139
+epoch 5001, loss 675.4170
+save model ./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_2
+epoch 5501, loss 516.6957
+epoch 6001, loss 598.4211
+epoch 6501, loss 498.8903
+epoch 7001, loss 485.0915
+epoch 7501, loss 528.1638
+epoch 8001, loss 403.4589
+save model ./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_2
+epoch 8501, loss 341.5219
+epoch 9001, loss 330.3698
+epoch 9501, loss 436.4034
+epoch 10001, loss 370.5656
+save model ./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_2
+epoch 10501, loss 324.0370
+epoch 11001, loss 423.4370
+epoch 11501, loss 363.0618
+epoch 12001, loss 367.1691
+epoch 12501, loss 419.7817
+epoch 13001, loss 415.1125
+epoch 13501, loss 366.5588
+epoch 14001, loss 412.0645
+epoch 14501, loss 264.0153
+epoch 15001, loss 408.9493
+save model ./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_2
+epoch 15501, loss 357.5965
+epoch 16001, loss 356.4478
+epoch 16501, loss 351.7875
+epoch 17001, loss 310.9519
+epoch 17501, loss 356.3610
+epoch 18001, loss 307.5254
+epoch 18501, loss 357.3679
+epoch 19001, loss 357.2424
+epoch 19501, loss 399.5161
+epoch 20001, loss 406.4355
+save model ./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_2
+save model ./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_2
+running_time is 674.8574047359999
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_3
+----------------------
+
+
+
+epoch 501, loss 1919.9062
+epoch 1001, loss 1261.1472
+epoch 1501, loss 1238.4275
+epoch 2001, loss 901.9054
+save model ./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_3
+epoch 2501, loss 748.9562
+epoch 3001, loss 628.6914
+epoch 3501, loss 589.9861
+epoch 4001, loss 528.9153
+epoch 4501, loss 505.5667
+epoch 5001, loss 480.2068
+save model ./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_3
+epoch 5501, loss 504.1168
+epoch 6001, loss 432.5806
+epoch 6501, loss 480.8251
+epoch 7001, loss 427.3844
+epoch 7501, loss 513.2379
+epoch 8001, loss 528.4107
+save model ./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_3
+epoch 8501, loss 238.3002
+epoch 9001, loss 463.4000
+epoch 9501, loss 434.7836
+epoch 10001, loss 327.4245
+save model ./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_3
+epoch 10501, loss 373.8082
+epoch 11001, loss 308.7143
+epoch 11501, loss 314.1037
+epoch 12001, loss 312.5010
+epoch 12501, loss 337.6392
+epoch 13001, loss 426.7896
+epoch 13501, loss 428.3405
+epoch 14001, loss 358.9237
+epoch 14501, loss 359.3183
+epoch 15001, loss 414.4854
+save model ./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_3
+epoch 15501, loss 403.9016
+epoch 16001, loss 347.5613
+epoch 16501, loss 357.3036
+epoch 17001, loss 297.0307
+epoch 17501, loss 352.1610
+epoch 18001, loss 353.9937
+epoch 18501, loss 358.3061
+epoch 19001, loss 202.2877
+epoch 19501, loss 404.5033
+epoch 20001, loss 352.3030
+save model ./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_3
+save model ./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_3
+running_time is 677.8017040670001
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_4
+----------------------
+
+
+
+epoch 501, loss 2345.9004
+epoch 1001, loss 1172.6052
+epoch 1501, loss 1346.4088
+epoch 2001, loss 791.2059
+save model ./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_4
+epoch 2501, loss 775.4049
+epoch 3001, loss 600.2200
+epoch 3501, loss 542.0142
+epoch 4001, loss 387.0573
+epoch 4501, loss 474.4346
+epoch 5001, loss 469.4010
+save model ./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_4
+epoch 5501, loss 481.9203
+epoch 6001, loss 455.2880
+epoch 6501, loss 429.0449
+epoch 7001, loss 411.4307
+epoch 7501, loss 524.7074
+epoch 8001, loss 300.5375
+save model ./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_4
+epoch 8501, loss 301.4337
+epoch 9001, loss 388.4834
+epoch 9501, loss 395.7741
+epoch 10001, loss 221.6376
+save model ./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_4
+epoch 10501, loss 412.6149
+epoch 11001, loss 373.7771
+epoch 11501, loss 374.3442
+epoch 12001, loss 413.9244
+epoch 12501, loss 432.7952
+epoch 13001, loss 317.9669
+epoch 13501, loss 309.3715
+epoch 14001, loss 359.6537
+epoch 14501, loss 410.2033
+epoch 15001, loss 365.0953
+save model ./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_4
+epoch 15501, loss 308.6624
+epoch 16001, loss 360.3868
+epoch 16501, loss 352.0098
+epoch 17001, loss 361.5871
+epoch 17501, loss 410.0406
+epoch 18001, loss 251.2111
+epoch 18501, loss 409.5046
+epoch 19001, loss 407.5947
+epoch 19501, loss 353.9503
+epoch 20001, loss 350.1086
+save model ./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_4
+save model ./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_4
+running_time is 680.024807683
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_5
+----------------------
+
+
+
+epoch 501, loss 2778.7549
+epoch 1001, loss 1984.2091
+epoch 1501, loss 1275.4982
+epoch 2001, loss 1705.5803
+save model ./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_5
+epoch 2501, loss 1106.7023
+epoch 3001, loss 907.9944
+epoch 3501, loss 821.6653
+epoch 4001, loss 793.1918
+epoch 4501, loss 1360.0483
+epoch 5001, loss 747.1394
+save model ./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_5
+epoch 5501, loss 699.9458
+epoch 6001, loss 888.0166
+epoch 6501, loss 647.3625
+epoch 7001, loss 643.6196
+epoch 7501, loss 559.8066
+epoch 8001, loss 538.4638
+save model ./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_5
+epoch 8501, loss 608.6794
+epoch 9001, loss 703.2561
+epoch 9501, loss 584.1192
+epoch 10001, loss 526.0867
+save model ./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_5
+epoch 10501, loss 574.7191
+epoch 11001, loss 610.0756
+epoch 11501, loss 515.6674
+epoch 12001, loss 563.0084
+epoch 12501, loss 557.7540
+epoch 13001, loss 504.6592
+epoch 13501, loss 571.5009
+epoch 14001, loss 559.0872
+epoch 14501, loss 499.8232
+epoch 15001, loss 549.9604
+save model ./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_5
+epoch 15501, loss 549.1404
+epoch 16001, loss 559.0289
+epoch 16501, loss 498.9775
+epoch 17001, loss 550.7744
+epoch 17501, loss 550.4966
+epoch 18001, loss 545.8958
+epoch 18501, loss 542.2686
+epoch 19001, loss 548.9379
+epoch 19501, loss 545.5584
+epoch 20001, loss 543.6620
+save model ./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_5
+save model ./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_5
+running_time is 828.7279298569999
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_2000
+normal_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_1
+./test_glass5/result_MLP_im_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4642857142857143
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_2000
+normal_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_2
+./test_glass5/result_MLP_im_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7134146341463415
+
+the Fscore is 0.3333333333333333
+
+the precision is 0.25
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_2000
+normal_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_3
+./test_glass5/result_MLP_im_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9268292682926829
+
+the Fscore is 0.4
+
+the precision is 0.25
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_2000
+normal_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_4
+./test_glass5/result_MLP_im_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9268292682926829
+
+the Fscore is 0.4
+
+the precision is 0.25
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_2000
+normal_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_5
+./test_glass5/result_MLP_im_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7125000000000001
+
+the Fscore is 0.3333333333333333
+
+the precision is 0.25
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_5000
+normal_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_1
+./test_glass5/result_MLP_im_5000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_5000
+normal_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_2
+./test_glass5/result_MLP_im_5000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_5000
+normal_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_3
+./test_glass5/result_MLP_im_5000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_5000
+normal_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_4
+./test_glass5/result_MLP_im_5000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9390243902439024
+
+the Fscore is 0.4444444444444445
+
+the precision is 0.2857142857142857
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_5000
+normal_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_5
+./test_glass5/result_MLP_im_5000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_8000
+normal_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_1
+./test_glass5/result_MLP_im_8000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_8000
+normal_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_2
+./test_glass5/result_MLP_im_8000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_8000
+normal_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_3
+./test_glass5/result_MLP_im_8000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4878048780487805
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_8000
+normal_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_4
+./test_glass5/result_MLP_im_8000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_8000
+normal_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_5
+./test_glass5/result_MLP_im_8000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_10000
+normal_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_1
+./test_glass5/result_MLP_im_10000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_10000
+normal_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_2
+./test_glass5/result_MLP_im_10000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_10000
+normal_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_3
+./test_glass5/result_MLP_im_10000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4878048780487805
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_10000
+normal_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_4
+./test_glass5/result_MLP_im_10000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_10000
+normal_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_5
+./test_glass5/result_MLP_im_10000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_15000
+normal_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_1
+./test_glass5/result_MLP_im_15000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_15000
+normal_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_2
+./test_glass5/result_MLP_im_15000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_15000
+normal_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_3
+./test_glass5/result_MLP_im_15000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4878048780487805
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_15000
+normal_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_4
+./test_glass5/result_MLP_im_15000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_15000
+normal_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_5
+./test_glass5/result_MLP_im_15000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_20000
+normal_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_1
+./test_glass5/result_MLP_im_20000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_20000
+normal_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_2
+./test_glass5/result_MLP_im_20000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_20000
+normal_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_3
+./test_glass5/result_MLP_im_20000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4878048780487805
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_20000
+normal_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_4
+./test_glass5/result_MLP_im_20000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_20000
+normal_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_5
+./test_glass5/result_MLP_im_20000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_2000
+bm_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_1
+./test_glass5/result_MLP_im_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_2000
+bm_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_2
+./test_glass5/result_MLP_im_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7134146341463415
+
+the Fscore is 0.3333333333333333
+
+the precision is 0.25
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_2000
+bm_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_3
+./test_glass5/result_MLP_im_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_2000
+bm_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_4
+./test_glass5/result_MLP_im_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_2000
+bm_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_5
+./test_glass5/result_MLP_im_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_5000
+bm_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_1
+./test_glass5/result_MLP_im_5000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_5000
+bm_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_2
+./test_glass5/result_MLP_im_5000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_5000
+bm_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_3
+./test_glass5/result_MLP_im_5000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_5000
+bm_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_4
+./test_glass5/result_MLP_im_5000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_5000
+bm_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_5
+./test_glass5/result_MLP_im_5000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_8000
+bm_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_1
+./test_glass5/result_MLP_im_8000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_8000
+bm_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_2
+./test_glass5/result_MLP_im_8000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_8000
+bm_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_3
+./test_glass5/result_MLP_im_8000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4878048780487805
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_8000
+bm_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_4
+./test_glass5/result_MLP_im_8000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_8000
+bm_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_5
+./test_glass5/result_MLP_im_8000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_10000
+bm_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_1
+./test_glass5/result_MLP_im_10000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_10000
+bm_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_2
+./test_glass5/result_MLP_im_10000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_10000
+bm_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_3
+./test_glass5/result_MLP_im_10000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4878048780487805
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_10000
+bm_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_4
+./test_glass5/result_MLP_im_10000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_10000
+bm_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_5
+./test_glass5/result_MLP_im_10000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_15000
+bm_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_1
+./test_glass5/result_MLP_im_15000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_15000
+bm_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_2
+./test_glass5/result_MLP_im_15000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_15000
+bm_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_3
+./test_glass5/result_MLP_im_15000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4878048780487805
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_15000
+bm_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_4
+./test_glass5/result_MLP_im_15000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_15000
+bm_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_5
+./test_glass5/result_MLP_im_15000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_20000
+bm_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_1
+./test_glass5/result_MLP_im_20000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_20000
+bm_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_2
+./test_glass5/result_MLP_im_20000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_20000
+bm_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_3
+./test_glass5/result_MLP_im_20000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4878048780487805
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_20000
+bm_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_4
+./test_glass5/result_MLP_im_20000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_20000
+bm_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_5
+./test_glass5/result_MLP_im_20000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_2000
+im_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_1
+./test_glass5/result_MLP_im_2000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.47619047619047616
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_2000
+im_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_2
+./test_glass5/result_MLP_im_2000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_2000
+im_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_3
+./test_glass5/result_MLP_im_2000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9878048780487805
+
+the Fscore is 0.8
+
+the precision is 0.6666666666666666
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_2000
+im_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_4
+./test_glass5/result_MLP_im_2000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_2000
+im_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_5
+./test_glass5/result_MLP_im_2000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7374999999999999
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_5000
+im_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_1
+./test_glass5/result_MLP_im_5000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_5000
+im_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_2
+./test_glass5/result_MLP_im_5000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.47560975609756095
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_5000
+im_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_3
+./test_glass5/result_MLP_im_5000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_5000
+im_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_4
+./test_glass5/result_MLP_im_5000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_5000
+im_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_5
+./test_glass5/result_MLP_im_5000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_8000
+im_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_1
+./test_glass5/result_MLP_im_8000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_8000
+im_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_2
+./test_glass5/result_MLP_im_8000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.47560975609756095
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_8000
+im_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_3
+./test_glass5/result_MLP_im_8000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_8000
+im_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_4
+./test_glass5/result_MLP_im_8000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_8000
+im_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_5
+./test_glass5/result_MLP_im_8000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_10000
+im_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_1
+./test_glass5/result_MLP_im_10000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_10000
+im_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_2
+./test_glass5/result_MLP_im_10000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.47560975609756095
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_10000
+im_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_3
+./test_glass5/result_MLP_im_10000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_10000
+im_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_4
+./test_glass5/result_MLP_im_10000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_10000
+im_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_5
+./test_glass5/result_MLP_im_10000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_15000
+im_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_1
+./test_glass5/result_MLP_im_15000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_15000
+im_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_2
+./test_glass5/result_MLP_im_15000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4878048780487805
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_15000
+im_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_3
+./test_glass5/result_MLP_im_15000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_15000
+im_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_4
+./test_glass5/result_MLP_im_15000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_15000
+im_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_5
+./test_glass5/result_MLP_im_15000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_20000
+im_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_1
+./test_glass5/result_MLP_im_20000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_20000
+im_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_2
+./test_glass5/result_MLP_im_20000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4878048780487805
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_20000
+im_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_3
+./test_glass5/result_MLP_im_20000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_20000
+im_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_4
+./test_glass5/result_MLP_im_20000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_20000
+im_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_5
+./test_glass5/result_MLP_im_20000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_2000
+both_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_1
+./test_glass5/result_MLP_im_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_2000
+both_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_2
+./test_glass5/result_MLP_im_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7134146341463415
+
+the Fscore is 0.3333333333333333
+
+the precision is 0.25
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_2000
+both_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_3
+./test_glass5/result_MLP_im_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_2000
+both_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_4
+./test_glass5/result_MLP_im_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_2000
+both_num_10_half
+./test_glass5/model_MLP_im_2000/record_1/MLP_im_2000_5
+./test_glass5/result_MLP_im_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7374999999999999
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_5000
+both_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_1
+./test_glass5/result_MLP_im_5000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_5000
+both_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_2
+./test_glass5/result_MLP_im_5000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_5000
+both_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_3
+./test_glass5/result_MLP_im_5000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_5000
+both_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_4
+./test_glass5/result_MLP_im_5000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_5000
+both_num_10_half
+./test_glass5/model_MLP_im_5000/record_1/MLP_im_5000_5
+./test_glass5/result_MLP_im_5000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_8000
+both_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_1
+./test_glass5/result_MLP_im_8000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_8000
+both_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_2
+./test_glass5/result_MLP_im_8000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_8000
+both_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_3
+./test_glass5/result_MLP_im_8000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_8000
+both_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_4
+./test_glass5/result_MLP_im_8000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_8000
+both_num_10_half
+./test_glass5/model_MLP_im_8000/record_1/MLP_im_8000_5
+./test_glass5/result_MLP_im_8000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_10000
+both_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_1
+./test_glass5/result_MLP_im_10000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_10000
+both_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_2
+./test_glass5/result_MLP_im_10000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_10000
+both_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_3
+./test_glass5/result_MLP_im_10000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_10000
+both_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_4
+./test_glass5/result_MLP_im_10000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_10000
+both_num_10_half
+./test_glass5/model_MLP_im_10000/record_1/MLP_im_10000_5
+./test_glass5/result_MLP_im_10000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_15000
+both_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_1
+./test_glass5/result_MLP_im_15000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4880952380952381
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_15000
+both_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_2
+./test_glass5/result_MLP_im_15000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_15000
+both_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_3
+./test_glass5/result_MLP_im_15000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4878048780487805
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_15000
+both_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_4
+./test_glass5/result_MLP_im_15000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_15000
+both_num_10_half
+./test_glass5/model_MLP_im_15000/record_1/MLP_im_15000_5
+./test_glass5/result_MLP_im_15000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+MLP_im_20000
+both_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_1
+./test_glass5/result_MLP_im_20000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+MLP_im_20000
+both_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_2
+./test_glass5/result_MLP_im_20000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+MLP_im_20000
+both_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_3
+./test_glass5/result_MLP_im_20000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4878048780487805
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+MLP_im_20000
+both_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_4
+./test_glass5/result_MLP_im_20000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+MLP_im_20000
+both_num_10_half
+./test_glass5/model_MLP_im_20000/record_1/MLP_im_20000_5
+./test_glass5/result_MLP_im_20000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
