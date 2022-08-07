@@ -241,9 +241,9 @@ class data_record_collect:
 
 
 # dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
-# dataset_list = ['abalone19']
+dataset_list = ['glass5', 'yeast5']
 
-dataset_list = ['pima','glass0','vehicle0','ecoli1','yeast3','pageblocks1','glass5','yeast5','yeast6','abalone19']
+# dataset_list = ['pima','glass0','vehicle0','ecoli1','yeast3','pageblocks1','glass5','yeast5','yeast6','abalone19']
 
 data_range = 5
 record_index = 1
