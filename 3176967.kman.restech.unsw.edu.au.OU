@@ -1,0 +1,464 @@
+/home/z5102138/anaconda3/envs/py36/bin/python
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_61 sm_70 sm_75 compute_37.
+If you want to use the A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_1
+----------------------
+
+
+
+epoch 501, loss 184349.8125
+epoch 1001, loss 153807.7188
+epoch 1501, loss 126529.6562
+epoch 2001, loss 108001.9531
+save model ./test_yeast5/model_MLP_im2_2000/record_1/MLP_im2_2000_1
+epoch 2501, loss 106237.5938
+epoch 3001, loss 102266.5625
+epoch 3501, loss 89677.1953
+epoch 4001, loss 79065.5156
+epoch 4501, loss 69502.8438
+epoch 5001, loss 72343.9141
+save model ./test_yeast5/model_MLP_im2_5000/record_1/MLP_im2_5000_1
+epoch 5501, loss 65447.7109
+epoch 6001, loss 65737.4141
+epoch 6501, loss 57795.5469
+epoch 7001, loss 46391.3477
+epoch 7501, loss 50450.2188
+epoch 8001, loss 51362.2227
+save model ./test_yeast5/model_MLP_im2_8000/record_1/MLP_im2_8000_1
+epoch 8501, loss 46351.3672
+epoch 9001, loss 49110.4375
+epoch 9501, loss 39504.9219
+epoch 10001, loss 37101.8945
+save model ./test_yeast5/model_MLP_im2_10000/record_1/MLP_im2_10000_1
+epoch 10501, loss 35143.4219
+epoch 11001, loss 35159.3477
+epoch 11501, loss 37074.8750
+epoch 12001, loss 30749.2500
+epoch 12501, loss 29995.1387
+epoch 13001, loss 28381.3359
+epoch 13501, loss 28231.2051
+epoch 14001, loss 28628.6113
+epoch 14501, loss 27176.4199
+epoch 15001, loss 25825.2461
+save model ./test_yeast5/model_MLP_im2_15000/record_1/MLP_im2_15000_1
+epoch 15501, loss 26080.7812
+epoch 16001, loss 25032.1211
+epoch 16501, loss 20769.4648
+epoch 17001, loss 20222.2285
+epoch 17501, loss 22343.8145
+epoch 18001, loss 20986.0801
+epoch 18501, loss 19538.6738
+epoch 19001, loss 18899.3086
+epoch 19501, loss 19734.9199
+epoch 20001, loss 16928.7676
+save model ./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_1
+save model ./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_1
+running_time is 34131.850196568004
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_61 sm_70 sm_75 compute_37.
+If you want to use the A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_2
+----------------------
+
+
+
+epoch 501, loss 187554.7656
+epoch 1001, loss 159233.6562
+epoch 1501, loss 145876.0938
+epoch 2001, loss 134603.0000
+save model ./test_yeast5/model_MLP_im2_2000/record_1/MLP_im2_2000_2
+epoch 2501, loss 118096.9219
+epoch 3001, loss 104837.4688
+epoch 3501, loss 97620.4531
+epoch 4001, loss 83675.1875
+epoch 4501, loss 75525.7500
+epoch 5001, loss 70753.7812
+save model ./test_yeast5/model_MLP_im2_5000/record_1/MLP_im2_5000_2
+epoch 5501, loss 79135.5234
+epoch 6001, loss 66605.7031
+epoch 6501, loss 65838.9297
+epoch 7001, loss 57527.2891
+epoch 7501, loss 52088.8516
+epoch 8001, loss 53120.4766
+save model ./test_yeast5/model_MLP_im2_8000/record_1/MLP_im2_8000_2
+epoch 8501, loss 52109.1992
+epoch 9001, loss 49037.3906
+epoch 9501, loss 49468.7812
+epoch 10001, loss 49235.0547
+save model ./test_yeast5/model_MLP_im2_10000/record_1/MLP_im2_10000_2
+epoch 10501, loss 47796.4258
+epoch 11001, loss 42997.7852
+epoch 11501, loss 43468.3125
+epoch 12001, loss 35885.8594
+epoch 12501, loss 40288.0938
+epoch 13001, loss 42052.6289
+epoch 13501, loss 36142.1172
+epoch 14001, loss 35008.0781
+epoch 14501, loss 38447.6328
+epoch 15001, loss 34807.6055
+save model ./test_yeast5/model_MLP_im2_15000/record_1/MLP_im2_15000_2
+epoch 15501, loss 29087.4336
+epoch 16001, loss 33395.3516
+epoch 16501, loss 29764.8867
+epoch 17001, loss 34965.3789
+epoch 17501, loss 32549.9941
+epoch 18001, loss 29194.3340
+epoch 18501, loss 32487.0273
+epoch 19001, loss 26691.0449
+epoch 19501, loss 27503.6758
+epoch 20001, loss 30825.7031
+save model ./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_2
+save model ./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_2
+running_time is 33879.103365637
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_61 sm_70 sm_75 compute_37.
+If you want to use the A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_3
+----------------------
+
+
+
+epoch 501, loss 165424.4062
+epoch 1001, loss 144937.1562
+epoch 1501, loss 133496.5469
+epoch 2001, loss 108685.1797
+save model ./test_yeast5/model_MLP_im2_2000/record_1/MLP_im2_2000_3
+epoch 2501, loss 106490.4688
+epoch 3001, loss 84661.9531
+epoch 3501, loss 81622.1328
+epoch 4001, loss 68563.3516
+epoch 4501, loss 67044.9219
+epoch 5001, loss 60791.7734
+save model ./test_yeast5/model_MLP_im2_5000/record_1/MLP_im2_5000_3
+epoch 5501, loss 52167.3203
+epoch 6001, loss 50891.9414
+epoch 6501, loss 49612.8281
+epoch 7001, loss 40711.7539
+epoch 7501, loss 44119.2852
+epoch 8001, loss 41667.1719
+save model ./test_yeast5/model_MLP_im2_8000/record_1/MLP_im2_8000_3
+epoch 8501, loss 34924.0781
+epoch 9001, loss 41438.0664
+epoch 9501, loss 37001.0469
+epoch 10001, loss 29433.8789
+save model ./test_yeast5/model_MLP_im2_10000/record_1/MLP_im2_10000_3
+epoch 10501, loss 29990.6621
+epoch 11001, loss 31575.1777
+epoch 11501, loss 29619.0742
+epoch 12001, loss 30795.9766
+epoch 12501, loss 27847.9258
+epoch 13001, loss 28036.7832
+epoch 13501, loss 28180.3594
+epoch 14001, loss 22933.5078
+epoch 14501, loss 26526.1348
+epoch 15001, loss 26840.4570
+save model ./test_yeast5/model_MLP_im2_15000/record_1/MLP_im2_15000_3
+epoch 15501, loss 23915.3711
+epoch 16001, loss 24597.4844
+epoch 16501, loss 23782.8145
+epoch 17001, loss 22985.1719
+epoch 17501, loss 25624.0547
+epoch 18001, loss 25311.5332
+epoch 18501, loss 22939.9531
+epoch 19001, loss 20257.3945
+epoch 19501, loss 18007.2422
+epoch 20001, loss 23075.1973
+save model ./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_3
+save model ./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_3
+running_time is 34960.275656693
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_61 sm_70 sm_75 compute_37.
+If you want to use the A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_4
+----------------------
+
+
+
+epoch 501, loss 205469.4062
+epoch 1001, loss 149280.3750
+epoch 1501, loss 122490.0234
+epoch 2001, loss 130327.4609
+save model ./test_yeast5/model_MLP_im2_2000/record_1/MLP_im2_2000_4
+epoch 2501, loss 109804.9062
+epoch 3001, loss 98991.8906
+epoch 3501, loss 89966.1797
+epoch 4001, loss 92387.0625
+epoch 4501, loss 82939.6094
+epoch 5001, loss 81355.6875
+save model ./test_yeast5/model_MLP_im2_5000/record_1/MLP_im2_5000_4
+epoch 5501, loss 74385.3750
+epoch 6001, loss 61625.0547
+epoch 6501, loss 67650.0312
+epoch 7001, loss 61417.1133
+epoch 7501, loss 54593.1328
+epoch 8001, loss 58376.5820
+save model ./test_yeast5/model_MLP_im2_8000/record_1/MLP_im2_8000_4
+epoch 8501, loss 56730.4453
+epoch 9001, loss 50186.7188
+epoch 9501, loss 48154.8008
+epoch 10001, loss 46776.6328
+save model ./test_yeast5/model_MLP_im2_10000/record_1/MLP_im2_10000_4
+epoch 10501, loss 45474.6133
+epoch 11001, loss 46315.5586
+epoch 11501, loss 47654.8594
+epoch 12001, loss 45243.3594
+epoch 12501, loss 43898.0703
+epoch 13001, loss 41131.2734
+epoch 13501, loss 43225.6445
+epoch 14001, loss 44660.2695
+epoch 14501, loss 44214.5195
+epoch 15001, loss 39678.0547
+save model ./test_yeast5/model_MLP_im2_15000/record_1/MLP_im2_15000_4
+epoch 15501, loss 37449.1562
+epoch 16001, loss 37713.4922
+epoch 16501, loss 39235.0977
+epoch 17001, loss 35398.7109
+epoch 17501, loss 34765.7383
+epoch 18001, loss 33503.1953
+epoch 18501, loss 31890.2227
+epoch 19001, loss 30351.2656
+epoch 19501, loss 30356.1816
+epoch 20001, loss 28590.5469
+save model ./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_4
+save model ./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_4
+running_time is 34091.820475227
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_61 sm_70 sm_75 compute_37.
+If you want to use the A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_5
+----------------------
+
+
+
+epoch 501, loss 194566.6094
+epoch 1001, loss 174344.8281
+epoch 1501, loss 152556.0625
+epoch 2001, loss 122714.6719
+save model ./test_yeast5/model_MLP_im2_2000/record_1/MLP_im2_2000_5
+epoch 2501, loss 116144.9922
+epoch 3001, loss 108554.4531
+epoch 3501, loss 101970.9609
+epoch 4001, loss 89229.2266
+epoch 4501, loss 84156.8281
+epoch 5001, loss 73633.6250
+save model ./test_yeast5/model_MLP_im2_5000/record_1/MLP_im2_5000_5
+epoch 5501, loss 68308.3828
+epoch 6001, loss 65152.9062
+epoch 6501, loss 59798.6758
+epoch 7001, loss 59370.2578
+epoch 7501, loss 54676.8477
+epoch 8001, loss 47740.9570
+save model ./test_yeast5/model_MLP_im2_8000/record_1/MLP_im2_8000_5
+epoch 8501, loss 46927.8281
+epoch 9001, loss 45002.1797
+epoch 9501, loss 40168.9062
+epoch 10001, loss 39644.4258
+save model ./test_yeast5/model_MLP_im2_10000/record_1/MLP_im2_10000_5
+epoch 10501, loss 39962.5000
+epoch 11001, loss 39106.7969
+epoch 11501, loss 36886.2656
+epoch 12001, loss 33709.0703
+epoch 12501, loss 30024.8379
+epoch 13001, loss 30546.3945
+epoch 13501, loss 28009.4629
+epoch 14001, loss 28379.9805
+epoch 14501, loss 26789.1289
+epoch 15001, loss 26223.7617
+save model ./test_yeast5/model_MLP_im2_15000/record_1/MLP_im2_15000_5
+epoch 15501, loss 26318.2617
+epoch 16001, loss 27192.3320
+epoch 16501, loss 23790.8887
+epoch 17001, loss 24660.7422
+epoch 17501, loss 22578.3516
+epoch 18001, loss 21726.8145
+epoch 18501, loss 23815.0996
+epoch 19001, loss 22997.0918
+epoch 19501, loss 20595.7832
+epoch 20001, loss 22532.5469
+save model ./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_5
+save model ./test_yeast5/model_MLP_im2_20000/record_1/MLP_im2_20000_5
+running_time is 34903.141333961
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_61 sm_70 sm_75 compute_37.
+If you want to use the A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_im2_2000
+normal_num_10_half
+./test_yeast5/model_MLP_im2_2000/record_1/MLP_im2_2000_1
+./test_yeast5/result_MLP_im2_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8997641509433963
+
+the Fscore is 0.7000000000000001
+
+the precision is 0.5833333333333334
+
+the recall is 0.875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_61 sm_70 sm_75 compute_37.
+If you want to use the A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_im2_2000
+normal_num_10_half
+./test_yeast5/model_MLP_im2_2000/record_1/MLP_im2_2000_2
+./test_yeast5/result_MLP_im2_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9034090909090909
+
+the Fscore is 0.7160493827160493
+
+the precision is 0.6041666666666666
+
+the recall is 0.8787878787878788
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_61 sm_70 sm_75 compute_37.
+If you want to use the A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_im2_2000
+normal_num_10_half
+./test_yeast5/model_MLP_im2_2000/record_1/MLP_im2_2000_3
+./test_yeast5/result_MLP_im2_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8465909090909091
+
+the Fscore is 0.6666666666666667
+
+the precision is 0.5952380952380952
+
+the recall is 0.7575757575757576
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_61 sm_70 sm_75 compute_37.
+If you want to use the A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_im2_2000
+normal_num_10_half
+./test_yeast5/model_MLP_im2_2000/record_1/MLP_im2_2000_4
+./test_yeast5/result_MLP_im2_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9488636363636364
+
+the Fscore is 0.761904761904762
+
+the precision is 0.6274509803921569
+
+the recall is 0.9696969696969697
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_61 sm_70 sm_75 compute_37.
+If you want to use the A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_im2_2000
+normal_num_10_half
+./test_yeast5/model_MLP_im2_2000/record_1/MLP_im2_2000_5
+./test_yeast5/result_MLP_im2_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9715909090909092
+
+the Fscore is 0.810126582278481
+
+the precision is 0.6808510638297872
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+A100-PCIE-40GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_61 sm_70 sm_75 compute_37.
+If you want to use the A100-PCIE-40GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_im2_5000
+normal_num_10_half
+./test_yeast5/model_MLP_im2_5000/record_1/MLP_im2_5000_1
+./test_yeast5/result_MLP_im2_5000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8841391509433962
+
+the Fscore is 0.6835443037974684
+
+the precision is 0.574468085106383
+
+the recall is 0.84375
+
+Done
+=>> PBS: job killed: walltime 43283 exceeded limit 43200

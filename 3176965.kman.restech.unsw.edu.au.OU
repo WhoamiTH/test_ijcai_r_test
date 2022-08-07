@@ -1,0 +1,2791 @@
+/home/z5102138/anaconda3/envs/py36/bin/python
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_1
+----------------------
+
+
+
+epoch 501, loss 263711.6250
+epoch 1001, loss 219807.8750
+epoch 1501, loss 182195.7812
+epoch 2001, loss 157938.5312
+save model ./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_1
+epoch 2501, loss 130936.0859
+epoch 3001, loss 119346.0547
+epoch 3501, loss 104934.8672
+epoch 4001, loss 88374.7812
+epoch 4501, loss 79358.6562
+epoch 5001, loss 68130.6953
+save model ./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_1
+epoch 5501, loss 62099.1875
+epoch 6001, loss 55773.5938
+epoch 6501, loss 50725.2031
+epoch 7001, loss 46666.3906
+epoch 7501, loss 40085.5703
+epoch 8001, loss 38408.6758
+save model ./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_1
+epoch 8501, loss 36529.1367
+epoch 9001, loss 31397.1875
+epoch 9501, loss 30088.7793
+epoch 10001, loss 24683.4941
+save model ./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_1
+epoch 10501, loss 26621.7910
+epoch 11001, loss 24715.6699
+epoch 11501, loss 22780.7188
+epoch 12001, loss 20010.6660
+epoch 12501, loss 19086.6660
+epoch 13001, loss 16880.0625
+epoch 13501, loss 18675.4395
+epoch 14001, loss 16300.4717
+epoch 14501, loss 15413.3760
+epoch 15001, loss 15281.7490
+save model ./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_1
+epoch 15501, loss 15990.3184
+epoch 16001, loss 11277.9648
+epoch 16501, loss 14061.8164
+epoch 17001, loss 15171.3535
+epoch 17501, loss 13510.3975
+epoch 18001, loss 13319.1270
+epoch 18501, loss 13879.1895
+epoch 19001, loss 10947.8340
+epoch 19501, loss 12867.7129
+epoch 20001, loss 13150.7090
+save model ./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_1
+save model ./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_1
+running_time is 34861.339081998
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_2
+----------------------
+
+
+
+epoch 501, loss 271630.9375
+epoch 1001, loss 214953.2812
+epoch 1501, loss 182912.6875
+epoch 2001, loss 155752.3438
+save model ./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_2
+epoch 2501, loss 137923.4688
+epoch 3001, loss 119767.5391
+epoch 3501, loss 100206.0312
+epoch 4001, loss 94397.1016
+epoch 4501, loss 82808.2969
+epoch 5001, loss 75481.7812
+save model ./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_2
+epoch 5501, loss 66591.6406
+epoch 6001, loss 59531.8672
+epoch 6501, loss 49279.2578
+epoch 7001, loss 47174.1016
+epoch 7501, loss 41480.0117
+epoch 8001, loss 41392.6094
+save model ./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_2
+epoch 8501, loss 34594.8594
+epoch 9001, loss 33301.9531
+epoch 9501, loss 30435.0078
+epoch 10001, loss 28570.8926
+save model ./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_2
+epoch 10501, loss 26381.5078
+epoch 11001, loss 26977.1504
+epoch 11501, loss 23695.7891
+epoch 12001, loss 21979.8125
+epoch 12501, loss 21814.6953
+epoch 13001, loss 21797.8301
+epoch 13501, loss 20448.3262
+epoch 14001, loss 17690.0371
+epoch 14501, loss 16586.8867
+epoch 15001, loss 18068.6758
+save model ./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_2
+epoch 15501, loss 15001.3584
+epoch 16001, loss 15821.8594
+epoch 16501, loss 14247.2871
+epoch 17001, loss 14632.5781
+epoch 17501, loss 14394.3252
+epoch 18001, loss 11715.3672
+epoch 18501, loss 13410.8184
+epoch 19001, loss 13754.7061
+epoch 19501, loss 12601.1631
+epoch 20001, loss 11775.5479
+save model ./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_2
+save model ./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_2
+running_time is 33914.59576754201
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_3
+----------------------
+
+
+
+epoch 501, loss 263303.0000
+epoch 1001, loss 207196.8438
+epoch 1501, loss 177958.3750
+epoch 2001, loss 152095.9062
+save model ./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_3
+epoch 2501, loss 133706.2188
+epoch 3001, loss 115859.6250
+epoch 3501, loss 99791.2422
+epoch 4001, loss 84834.1250
+epoch 4501, loss 75492.3125
+epoch 5001, loss 68693.6172
+save model ./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_3
+epoch 5501, loss 56191.8672
+epoch 6001, loss 52859.1797
+epoch 6501, loss 47863.5625
+epoch 7001, loss 41985.2891
+epoch 7501, loss 39745.0938
+epoch 8001, loss 34792.0234
+save model ./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_3
+epoch 8501, loss 31361.8047
+epoch 9001, loss 29425.3164
+epoch 9501, loss 26831.8906
+epoch 10001, loss 24666.1680
+save model ./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_3
+epoch 10501, loss 24795.1895
+epoch 11001, loss 21562.5723
+epoch 11501, loss 20320.6934
+epoch 12001, loss 21158.3574
+epoch 12501, loss 18174.2031
+epoch 13001, loss 15215.4297
+epoch 13501, loss 15623.6211
+epoch 14001, loss 15372.1738
+epoch 14501, loss 16639.9961
+epoch 15001, loss 14548.9316
+save model ./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_3
+epoch 15501, loss 14110.8584
+epoch 16001, loss 13015.6191
+epoch 16501, loss 11088.5703
+epoch 17001, loss 10753.3369
+epoch 17501, loss 11983.5059
+epoch 18001, loss 10591.9736
+epoch 18501, loss 10423.9375
+epoch 19001, loss 8322.7852
+epoch 19501, loss 9029.6934
+epoch 20001, loss 9846.3965
+save model ./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_3
+save model ./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_3
+running_time is 33210.774400829
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_4
+----------------------
+
+
+
+epoch 501, loss 273132.0312
+epoch 1001, loss 222205.2812
+epoch 1501, loss 184274.6250
+epoch 2001, loss 164602.9531
+save model ./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_4
+epoch 2501, loss 134725.0938
+epoch 3001, loss 123150.9531
+epoch 3501, loss 106262.5234
+epoch 4001, loss 94523.1484
+epoch 4501, loss 84364.8516
+epoch 5001, loss 73744.1875
+save model ./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_4
+epoch 5501, loss 66330.0781
+epoch 6001, loss 55672.6445
+epoch 6501, loss 51657.9531
+epoch 7001, loss 47623.6328
+epoch 7501, loss 40245.8320
+epoch 8001, loss 38457.1953
+save model ./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_4
+epoch 8501, loss 35366.4023
+epoch 9001, loss 31993.1250
+epoch 9501, loss 29304.5469
+epoch 10001, loss 27408.8535
+save model ./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_4
+epoch 10501, loss 25581.2227
+epoch 11001, loss 25276.3633
+epoch 11501, loss 19447.3750
+epoch 12001, loss 19515.4102
+epoch 12501, loss 18779.1270
+epoch 13001, loss 17004.3711
+epoch 13501, loss 15717.5117
+epoch 14001, loss 14157.7793
+epoch 14501, loss 14915.3359
+epoch 15001, loss 11977.9863
+save model ./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_4
+epoch 15501, loss 12116.2500
+epoch 16001, loss 14097.3730
+epoch 16501, loss 13366.1582
+epoch 17001, loss 11682.2988
+epoch 17501, loss 11195.1641
+epoch 18001, loss 10734.1641
+epoch 18501, loss 10649.6426
+epoch 19001, loss 10554.1631
+epoch 19501, loss 9054.4941
+epoch 20001, loss 9652.0820
+save model ./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_4
+save model ./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_4
+running_time is 33894.380926328
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_5
+----------------------
+
+
+
+epoch 501, loss 276634.9375
+epoch 1001, loss 227320.4062
+epoch 1501, loss 188607.9688
+epoch 2001, loss 167331.3594
+save model ./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_5
+epoch 2501, loss 137164.9688
+epoch 3001, loss 125127.3359
+epoch 3501, loss 112610.8438
+epoch 4001, loss 94300.3906
+epoch 4501, loss 83102.0156
+epoch 5001, loss 77303.9531
+save model ./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_5
+epoch 5501, loss 67129.5469
+epoch 6001, loss 64123.1406
+epoch 6501, loss 53221.2109
+epoch 7001, loss 47515.5781
+epoch 7501, loss 47629.6016
+epoch 8001, loss 37311.5938
+save model ./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_5
+epoch 8501, loss 37441.9844
+epoch 9001, loss 37648.7031
+epoch 9501, loss 32599.4219
+epoch 10001, loss 27617.4570
+save model ./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_5
+epoch 10501, loss 26530.5840
+epoch 11001, loss 25535.4609
+epoch 11501, loss 25564.6602
+epoch 12001, loss 22284.8672
+epoch 12501, loss 19138.0742
+epoch 13001, loss 19130.0625
+epoch 13501, loss 19448.9160
+epoch 14001, loss 14938.7285
+epoch 14501, loss 15358.7070
+epoch 15001, loss 15485.3281
+save model ./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_5
+epoch 15501, loss 12560.4453
+epoch 16001, loss 13642.9170
+epoch 16501, loss 12797.5723
+epoch 17001, loss 13553.5371
+epoch 17501, loss 11860.6348
+epoch 18001, loss 12252.9473
+epoch 18501, loss 11183.4912
+epoch 19001, loss 13013.0234
+epoch 19501, loss 11089.8945
+epoch 20001, loss 10772.2080
+save model ./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_5
+save model ./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_5
+running_time is 33939.769720435004
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_2000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_1
+./test_yeast5/result_MLP_bm_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7962264150943397
+
+the Fscore is 0.3720930232558139
+
+the precision is 0.22857142857142856
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_2000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_2
+./test_yeast5/result_MLP_bm_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8106060606060606
+
+the Fscore is 0.40764331210191085
+
+the precision is 0.25806451612903225
+
+the recall is 0.9696969696969697
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_2000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_3
+./test_yeast5/result_MLP_bm_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7670454545454546
+
+the Fscore is 0.34920634920634924
+
+the precision is 0.21153846153846154
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_2000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_4
+./test_yeast5/result_MLP_bm_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7935606060606061
+
+the Fscore is 0.37714285714285717
+
+the precision is 0.2323943661971831
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_2000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_5
+./test_yeast5/result_MLP_bm_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8087121212121212
+
+the Fscore is 0.3878787878787879
+
+the precision is 0.24060150375939848
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_5000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_1
+./test_yeast5/result_MLP_bm_5000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7037735849056603
+
+the Fscore is 0.28959276018099545
+
+the precision is 0.1693121693121693
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_5000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_2
+./test_yeast5/result_MLP_bm_5000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7026515151515151
+
+the Fscore is 0.29906542056074764
+
+the precision is 0.17679558011049723
+
+the recall is 0.9696969696969697
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_5000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_3
+./test_yeast5/result_MLP_bm_5000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6950757575757576
+
+the Fscore is 0.2907488986784141
+
+the precision is 0.17010309278350516
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_5000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_4
+./test_yeast5/result_MLP_bm_5000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6060606060606061
+
+the Fscore is 0.24087591240875916
+
+the precision is 0.13692946058091288
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_5000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_5
+./test_yeast5/result_MLP_bm_5000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7310606060606061
+
+the Fscore is 0.3106796116504854
+
+the precision is 0.1839080459770115
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_8000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_1
+./test_yeast5/result_MLP_bm_8000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6320754716981132
+
+the Fscore is 0.24710424710424714
+
+the precision is 0.14096916299559473
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_8000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_2
+./test_yeast5/result_MLP_bm_8000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6609848484848485
+
+the Fscore is 0.2711864406779661
+
+the precision is 0.15763546798029557
+
+the recall is 0.9696969696969697
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_8000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_3
+./test_yeast5/result_MLP_bm_8000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6685606060606061
+
+the Fscore is 0.2738589211618257
+
+the precision is 0.15865384615384615
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_8000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_4
+./test_yeast5/result_MLP_bm_8000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5416666666666667
+
+the Fscore is 0.21428571428571425
+
+the precision is 0.12
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_8000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_5
+./test_yeast5/result_MLP_bm_8000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6988636363636364
+
+the Fscore is 0.2869955156950673
+
+the precision is 0.16753926701570682
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_10000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_1
+./test_yeast5/result_MLP_bm_10000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5867924528301887
+
+the Fscore is 0.22614840989399296
+
+the precision is 0.12749003984063745
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_10000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_2
+./test_yeast5/result_MLP_bm_10000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6553030303030303
+
+the Fscore is 0.26778242677824265
+
+the precision is 0.1553398058252427
+
+the recall is 0.9696969696969697
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_10000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_3
+./test_yeast5/result_MLP_bm_10000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6420454545454546
+
+the Fscore is 0.25882352941176473
+
+the precision is 0.14864864864864866
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_10000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_4
+./test_yeast5/result_MLP_bm_10000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5189393939393939
+
+the Fscore is 0.20625000000000002
+
+the precision is 0.11498257839721254
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_10000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_5
+./test_yeast5/result_MLP_bm_10000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6609848484848485
+
+the Fscore is 0.26337448559670784
+
+the precision is 0.15165876777251186
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_15000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_1
+./test_yeast5/result_MLP_bm_15000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5509433962264151
+
+the Fscore is 0.21192052980132453
+
+the precision is 0.11851851851851852
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_15000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_2
+./test_yeast5/result_MLP_bm_15000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.581439393939394
+
+the Fscore is 0.2302158273381295
+
+the precision is 0.1306122448979592
+
+the recall is 0.9696969696969697
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_15000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_3
+./test_yeast5/result_MLP_bm_15000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5776515151515151
+
+the Fscore is 0.22837370242214533
+
+the precision is 0.12890625
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_15000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_4
+./test_yeast5/result_MLP_bm_15000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5018939393939394
+
+the Fscore is 0.2006079027355623
+
+the precision is 0.11148648648648649
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_15000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_5
+./test_yeast5/result_MLP_bm_15000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6212121212121212
+
+the Fscore is 0.2424242424242424
+
+the precision is 0.13793103448275862
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_20000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_1
+./test_yeast5/result_MLP_bm_20000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5339622641509434
+
+the Fscore is 0.2057877813504823
+
+the precision is 0.11469534050179211
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_20000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_2
+./test_yeast5/result_MLP_bm_20000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5587121212121212
+
+the Fscore is 0.2206896551724138
+
+the precision is 0.1245136186770428
+
+the recall is 0.9696969696969697
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_20000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_3
+./test_yeast5/result_MLP_bm_20000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5321969696969697
+
+the Fscore is 0.2108626198083067
+
+the precision is 0.11785714285714285
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_20000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_4
+./test_yeast5/result_MLP_bm_20000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.19999999999999998
+
+the precision is 0.1111111111111111
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_20000
+normal_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_5
+./test_yeast5/result_MLP_bm_20000_normal_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6003787878787878
+
+the Fscore is 0.23272727272727273
+
+the precision is 0.13168724279835392
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_2000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_1
+./test_yeast5/result_MLP_bm_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8774174528301887
+
+the Fscore is 0.78125
+
+the precision is 0.78125
+
+the recall is 0.78125
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_2000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_2
+./test_yeast5/result_MLP_bm_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8560606060606062
+
+the Fscore is 0.7868852459016394
+
+the precision is 0.8571428571428571
+
+the recall is 0.7272727272727273
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_2000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_3
+./test_yeast5/result_MLP_bm_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7784090909090908
+
+the Fscore is 0.6666666666666667
+
+the precision is 0.7916666666666666
+
+the recall is 0.5757575757575758
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_2000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_4
+./test_yeast5/result_MLP_bm_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8768939393939394
+
+the Fscore is 0.7647058823529412
+
+the precision is 0.7428571428571429
+
+the recall is 0.7878787878787878
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_2000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_5
+./test_yeast5/result_MLP_bm_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8693181818181819
+
+the Fscore is 0.8135593220338982
+
+the precision is 0.8888888888888888
+
+the recall is 0.75
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_5000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_1
+./test_yeast5/result_MLP_bm_5000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8286556603773586
+
+the Fscore is 0.7096774193548386
+
+the precision is 0.7333333333333333
+
+the recall is 0.6875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_5000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_2
+./test_yeast5/result_MLP_bm_5000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8295454545454545
+
+the Fscore is 0.7719298245614035
+
+the precision is 0.9166666666666666
+
+the recall is 0.6666666666666666
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_5000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_3
+./test_yeast5/result_MLP_bm_5000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.759469696969697
+
+the Fscore is 0.6206896551724138
+
+the precision is 0.72
+
+the recall is 0.5454545454545454
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_5000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_4
+./test_yeast5/result_MLP_bm_5000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8787878787878789
+
+the Fscore is 0.7761194029850745
+
+the precision is 0.7647058823529411
+
+the recall is 0.7878787878787878
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_5000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_5
+./test_yeast5/result_MLP_bm_5000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8049242424242424
+
+the Fscore is 0.7142857142857143
+
+the precision is 0.8333333333333334
+
+the recall is 0.625
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_8000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_1
+./test_yeast5/result_MLP_bm_8000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8324292452830189
+
+the Fscore is 0.7333333333333334
+
+the precision is 0.7857142857142857
+
+the recall is 0.6875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_8000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_2
+./test_yeast5/result_MLP_bm_8000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8125
+
+the Fscore is 0.7368421052631579
+
+the precision is 0.875
+
+the recall is 0.6363636363636364
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_8000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_3
+./test_yeast5/result_MLP_bm_8000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7272727272727273
+
+the Fscore is 0.5614035087719298
+
+the precision is 0.6666666666666666
+
+the recall is 0.48484848484848486
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_8000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_4
+./test_yeast5/result_MLP_bm_8000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8655303030303031
+
+the Fscore is 0.7692307692307692
+
+the precision is 0.78125
+
+the recall is 0.7575757575757576
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_8000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_5
+./test_yeast5/result_MLP_bm_8000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8011363636363636
+
+the Fscore is 0.6896551724137931
+
+the precision is 0.7692307692307693
+
+the recall is 0.625
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_10000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_1
+./test_yeast5/result_MLP_bm_10000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8305424528301887
+
+the Fscore is 0.7213114754098361
+
+the precision is 0.7586206896551724
+
+the recall is 0.6875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_10000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_2
+./test_yeast5/result_MLP_bm_10000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8276515151515151
+
+the Fscore is 0.7586206896551725
+
+the precision is 0.88
+
+the recall is 0.6666666666666666
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_10000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_3
+./test_yeast5/result_MLP_bm_10000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.759469696969697
+
+the Fscore is 0.6206896551724138
+
+the precision is 0.72
+
+the recall is 0.5454545454545454
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_10000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_4
+./test_yeast5/result_MLP_bm_10000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8333333333333334
+
+the Fscore is 0.71875
+
+the precision is 0.7419354838709677
+
+the recall is 0.696969696969697
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_10000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_5
+./test_yeast5/result_MLP_bm_10000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8049242424242424
+
+the Fscore is 0.7142857142857143
+
+the precision is 0.8333333333333334
+
+the recall is 0.625
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_15000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_1
+./test_yeast5/result_MLP_bm_15000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7836674528301887
+
+the Fscore is 0.6551724137931033
+
+the precision is 0.7307692307692307
+
+the recall is 0.59375
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_15000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_2
+./test_yeast5/result_MLP_bm_15000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8257575757575757
+
+the Fscore is 0.7457627118644068
+
+the precision is 0.8461538461538461
+
+the recall is 0.6666666666666666
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_15000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_3
+./test_yeast5/result_MLP_bm_15000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7575757575757576
+
+the Fscore is 0.6101694915254238
+
+the precision is 0.6923076923076923
+
+the recall is 0.5454545454545454
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_15000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_4
+./test_yeast5/result_MLP_bm_15000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8314393939393939
+
+the Fscore is 0.7076923076923077
+
+the precision is 0.71875
+
+the recall is 0.696969696969697
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_15000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_5
+./test_yeast5/result_MLP_bm_15000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8304924242424243
+
+the Fscore is 0.7213114754098361
+
+the precision is 0.7586206896551724
+
+the recall is 0.6875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_20000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_1
+./test_yeast5/result_MLP_bm_20000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7817806603773585
+
+the Fscore is 0.6440677966101694
+
+the precision is 0.7037037037037037
+
+the recall is 0.59375
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_20000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_2
+./test_yeast5/result_MLP_bm_20000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7954545454545454
+
+the Fscore is 0.7017543859649124
+
+the precision is 0.8333333333333334
+
+the recall is 0.6060606060606061
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_20000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_3
+./test_yeast5/result_MLP_bm_20000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7556818181818182
+
+the Fscore is 0.6
+
+the precision is 0.6666666666666666
+
+the recall is 0.5454545454545454
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_20000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_4
+./test_yeast5/result_MLP_bm_20000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8314393939393939
+
+the Fscore is 0.7076923076923077
+
+the precision is 0.71875
+
+the recall is 0.696969696969697
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_20000
+bm_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_5
+./test_yeast5/result_MLP_bm_20000_bm_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8148674242424242
+
+the Fscore is 0.7
+
+the precision is 0.75
+
+the recall is 0.65625
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_2000
+im_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_1
+./test_yeast5/result_MLP_bm_2000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8784787735849057
+
+the Fscore is 0.6585365853658537
+
+the precision is 0.54
+
+the recall is 0.84375
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_2000
+im_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_2
+./test_yeast5/result_MLP_bm_2000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8977272727272728
+
+the Fscore is 0.7466666666666666
+
+the precision is 0.6666666666666666
+
+the recall is 0.8484848484848485
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_2000
+im_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_3
+./test_yeast5/result_MLP_bm_2000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8333333333333333
+
+the Fscore is 0.6097560975609756
+
+the precision is 0.5102040816326531
+
+the recall is 0.7575757575757576
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_2000
+im_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_4
+./test_yeast5/result_MLP_bm_2000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9640151515151515
+
+the Fscore is 0.7764705882352941
+
+the precision is 0.6346153846153846
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_2000
+im_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_5
+./test_yeast5/result_MLP_bm_2000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9578598484848485
+
+the Fscore is 0.8051948051948051
+
+the precision is 0.6888888888888889
+
+the recall is 0.96875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_5000
+im_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_1
+./test_yeast5/result_MLP_bm_5000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8965212264150944
+
+the Fscore is 0.6373626373626373
+
+the precision is 0.4915254237288136
+
+the recall is 0.90625
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_5000
+im_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_2
+./test_yeast5/result_MLP_bm_5000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9034090909090909
+
+the Fscore is 0.7160493827160493
+
+the precision is 0.6041666666666666
+
+the recall is 0.8787878787878788
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_5000
+im_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_3
+./test_yeast5/result_MLP_bm_5000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8106060606060606
+
+the Fscore is 0.5647058823529413
+
+the precision is 0.46153846153846156
+
+the recall is 0.7272727272727273
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_5000
+im_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_4
+./test_yeast5/result_MLP_bm_5000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9223484848484849
+
+the Fscore is 0.653061224489796
+
+the precision is 0.49230769230769234
+
+the recall is 0.9696969696969697
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_5000
+im_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_5
+./test_yeast5/result_MLP_bm_5000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9772727272727273
+
+the Fscore is 0.8421052631578948
+
+the precision is 0.7272727272727273
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_8000
+im_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_1
+./test_yeast5/result_MLP_bm_8000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8658018867924528
+
+the Fscore is 0.5714285714285714
+
+the precision is 0.42424242424242425
+
+the recall is 0.875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_8000
+im_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_2
+./test_yeast5/result_MLP_bm_8000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9147727272727273
+
+the Fscore is 0.7142857142857143
+
+the precision is 0.5882352941176471
+
+the recall is 0.9090909090909091
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_8000
+im_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_3
+./test_yeast5/result_MLP_bm_8000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8390151515151516
+
+the Fscore is 0.5567010309278351
+
+the precision is 0.421875
+
+the recall is 0.8181818181818182
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_8000
+im_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_4
+./test_yeast5/result_MLP_bm_8000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9242424242424243
+
+the Fscore is 0.6226415094339622
+
+the precision is 0.4520547945205479
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_8000
+im_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_5
+./test_yeast5/result_MLP_bm_8000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9559659090909091
+
+the Fscore is 0.7948717948717949
+
+the precision is 0.6739130434782609
+
+the recall is 0.96875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_10000
+im_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_1
+./test_yeast5/result_MLP_bm_10000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.826179245283019
+
+the Fscore is 0.4705882352941176
+
+the precision is 0.3218390804597701
+
+the recall is 0.875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_10000
+im_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_2
+./test_yeast5/result_MLP_bm_10000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8920454545454546
+
+the Fscore is 0.7179487179487178
+
+the precision is 0.6222222222222222
+
+the recall is 0.8484848484848485
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_10000
+im_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_3
+./test_yeast5/result_MLP_bm_10000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8446969696969697
+
+the Fscore is 0.574468085106383
+
+the precision is 0.4426229508196721
+
+the recall is 0.8181818181818182
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_10000
+im_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_4
+./test_yeast5/result_MLP_bm_10000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8977272727272727
+
+the Fscore is 0.5765765765765766
+
+the precision is 0.41025641025641024
+
+the recall is 0.9696969696969697
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_10000
+im_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_5
+./test_yeast5/result_MLP_bm_10000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9015151515151515
+
+the Fscore is 0.7088607594936708
+
+the precision is 0.5957446808510638
+
+the recall is 0.875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_15000
+im_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_1
+./test_yeast5/result_MLP_bm_15000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8512382075471698
+
+the Fscore is 0.5043478260869566
+
+the precision is 0.3493975903614458
+
+the recall is 0.90625
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_15000
+im_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_2
+./test_yeast5/result_MLP_bm_15000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8522727272727273
+
+the Fscore is 0.6419753086419753
+
+the precision is 0.5416666666666666
+
+the recall is 0.7878787878787878
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_15000
+im_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_3
+./test_yeast5/result_MLP_bm_15000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8143939393939394
+
+the Fscore is 0.5148514851485149
+
+the precision is 0.38235294117647056
+
+the recall is 0.7878787878787878
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_15000
+im_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_4
+./test_yeast5/result_MLP_bm_15000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8087121212121212
+
+the Fscore is 0.39520958083832336
+
+the precision is 0.2462686567164179
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_15000
+im_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_5
+./test_yeast5/result_MLP_bm_15000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9214015151515151
+
+the Fscore is 0.6896551724137931
+
+the precision is 0.5454545454545454
+
+the recall is 0.9375
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_20000
+im_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_1
+./test_yeast5/result_MLP_bm_20000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8091981132075473
+
+the Fscore is 0.43750000000000006
+
+the precision is 0.2916666666666667
+
+the recall is 0.875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_20000
+im_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_2
+./test_yeast5/result_MLP_bm_20000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8768939393939394
+
+the Fscore is 0.6105263157894737
+
+the precision is 0.46774193548387094
+
+the recall is 0.8787878787878788
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_20000
+im_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_3
+./test_yeast5/result_MLP_bm_20000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8011363636363638
+
+the Fscore is 0.4296296296296296
+
+the precision is 0.28431372549019607
+
+the recall is 0.8787878787878788
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_20000
+im_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_4
+./test_yeast5/result_MLP_bm_20000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7708333333333334
+
+the Fscore is 0.35294117647058826
+
+the precision is 0.21428571428571427
+
+the recall is 1.0
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_20000
+im_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_5
+./test_yeast5/result_MLP_bm_20000_im_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8726325757575757
+
+the Fscore is 0.6352941176470588
+
+the precision is 0.5094339622641509
+
+the recall is 0.84375
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_2000
+both_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_1
+./test_yeast5/result_MLP_bm_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9048938679245283
+
+the Fscore is 0.7941176470588235
+
+the precision is 0.75
+
+the recall is 0.84375
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_2000
+both_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_2
+./test_yeast5/result_MLP_bm_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8958333333333335
+
+the Fscore is 0.8059701492537314
+
+the precision is 0.7941176470588235
+
+the recall is 0.8181818181818182
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_2000
+both_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_3
+./test_yeast5/result_MLP_bm_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8371212121212122
+
+the Fscore is 0.676056338028169
+
+the precision is 0.631578947368421
+
+the recall is 0.7272727272727273
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_2000
+both_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_4
+./test_yeast5/result_MLP_bm_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9166666666666667
+
+the Fscore is 0.7837837837837839
+
+the precision is 0.7073170731707317
+
+the recall is 0.8787878787878788
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_2000
+both_num_10_half
+./test_yeast5/model_MLP_bm_2000/record_1/MLP_bm_2000_5
+./test_yeast5/result_MLP_bm_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9261363636363636
+
+the Fscore is 0.8484848484848485
+
+the precision is 0.8235294117647058
+
+the recall is 0.875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_5000
+both_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_1
+./test_yeast5/result_MLP_bm_5000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8523584905660377
+
+the Fscore is 0.7058823529411765
+
+the precision is 0.6666666666666666
+
+the recall is 0.75
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_5000
+both_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_2
+./test_yeast5/result_MLP_bm_5000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8731060606060607
+
+the Fscore is 0.7428571428571429
+
+the precision is 0.7027027027027027
+
+the recall is 0.7878787878787878
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_5000
+both_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_3
+./test_yeast5/result_MLP_bm_5000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7992424242424242
+
+the Fscore is 0.6027397260273972
+
+the precision is 0.55
+
+the recall is 0.6666666666666666
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_5000
+both_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_4
+./test_yeast5/result_MLP_bm_5000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.946969696969697
+
+the Fscore is 0.8157894736842105
+
+the precision is 0.7209302325581395
+
+the recall is 0.9393939393939394
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_5000
+both_num_10_half
+./test_yeast5/model_MLP_bm_5000/record_1/MLP_bm_5000_5
+./test_yeast5/result_MLP_bm_5000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8773674242424243
+
+the Fscore is 0.78125
+
+the precision is 0.78125
+
+the recall is 0.78125
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_8000
+both_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_1
+./test_yeast5/result_MLP_bm_8000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8660966981132076
+
+the Fscore is 0.7142857142857143
+
+the precision is 0.6578947368421053
+
+the recall is 0.78125
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_8000
+both_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_2
+./test_yeast5/result_MLP_bm_8000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8636363636363636
+
+the Fscore is 0.7575757575757576
+
+the precision is 0.7575757575757576
+
+the recall is 0.7575757575757576
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_8000
+both_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_3
+./test_yeast5/result_MLP_bm_8000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.793560606060606
+
+the Fscore is 0.6268656716417911
+
+the precision is 0.6176470588235294
+
+the recall is 0.6363636363636364
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_8000
+both_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_4
+./test_yeast5/result_MLP_bm_8000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8806818181818182
+
+the Fscore is 0.7200000000000001
+
+the precision is 0.6428571428571429
+
+the recall is 0.8181818181818182
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_8000
+both_num_10_half
+./test_yeast5/model_MLP_bm_8000/record_1/MLP_bm_8000_5
+./test_yeast5/result_MLP_bm_8000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9010416666666667
+
+the Fscore is 0.7714285714285714
+
+the precision is 0.7105263157894737
+
+the recall is 0.84375
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_10000
+both_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_1
+./test_yeast5/result_MLP_bm_10000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8310731132075473
+
+the Fscore is 0.6571428571428571
+
+the precision is 0.6052631578947368
+
+the recall is 0.71875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_10000
+both_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_2
+./test_yeast5/result_MLP_bm_10000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9071969696969698
+
+the Fscore is 0.8000000000000002
+
+the precision is 0.7567567567567568
+
+the recall is 0.8484848484848485
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_10000
+both_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_3
+./test_yeast5/result_MLP_bm_10000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8011363636363635
+
+the Fscore is 0.611111111111111
+
+the precision is 0.5641025641025641
+
+the recall is 0.6666666666666666
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_10000
+both_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_4
+./test_yeast5/result_MLP_bm_10000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9280303030303032
+
+the Fscore is 0.7792207792207791
+
+the precision is 0.6818181818181818
+
+the recall is 0.9090909090909091
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_10000
+both_num_10_half
+./test_yeast5/model_MLP_bm_10000/record_1/MLP_bm_10000_5
+./test_yeast5/result_MLP_bm_10000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8423295454545454
+
+the Fscore is 0.71875
+
+the precision is 0.71875
+
+the recall is 0.71875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_15000
+both_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_1
+./test_yeast5/result_MLP_bm_15000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8485849056603774
+
+the Fscore is 0.6857142857142857
+
+the precision is 0.631578947368421
+
+the recall is 0.75
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_15000
+both_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_2
+./test_yeast5/result_MLP_bm_15000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8484848484848485
+
+the Fscore is 0.7384615384615384
+
+the precision is 0.75
+
+the recall is 0.7272727272727273
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_15000
+both_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_3
+./test_yeast5/result_MLP_bm_15000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7784090909090908
+
+the Fscore is 0.56
+
+the precision is 0.5
+
+the recall is 0.6363636363636364
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_15000
+both_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_4
+./test_yeast5/result_MLP_bm_15000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8882575757575758
+
+the Fscore is 0.7
+
+the precision is 0.5957446808510638
+
+the recall is 0.8484848484848485
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_15000
+both_num_10_half
+./test_yeast5/model_MLP_bm_15000/record_1/MLP_bm_15000_5
+./test_yeast5/result_MLP_bm_15000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8423295454545454
+
+the Fscore is 0.71875
+
+the precision is 0.71875
+
+the recall is 0.71875
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+MLP_bm_20000
+both_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_1
+./test_yeast5/result_MLP_bm_20000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8472287735849057
+
+the Fscore is 0.625
+
+the precision is 0.5208333333333334
+
+the recall is 0.78125
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+MLP_bm_20000
+both_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_2
+./test_yeast5/result_MLP_bm_20000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8390151515151516
+
+the Fscore is 0.6857142857142857
+
+the precision is 0.6486486486486487
+
+the recall is 0.7272727272727273
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+MLP_bm_20000
+both_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_3
+./test_yeast5/result_MLP_bm_20000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7594696969696969
+
+the Fscore is 0.4941176470588235
+
+the precision is 0.40384615384615385
+
+the recall is 0.6363636363636364
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+MLP_bm_20000
+both_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_4
+./test_yeast5/result_MLP_bm_20000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8579545454545454
+
+the Fscore is 0.6206896551724137
+
+the precision is 0.5
+
+the recall is 0.8181818181818182
+
+Done
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+MLP_bm_20000
+both_num_10_half
+./test_yeast5/model_MLP_bm_20000/record_1/MLP_bm_20000_5
+./test_yeast5/result_MLP_bm_20000_both_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8716856060606061
+
+the Fscore is 0.7462686567164178
+
+the precision is 0.7142857142857143
+
+the recall is 0.78125
+
+Done
