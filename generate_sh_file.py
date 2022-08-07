@@ -12,7 +12,7 @@ import sys
 import os
 import math
 # dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
-dataset_list = ['glass5']
+dataset_list = ['yeast5']
 data_range = 5
 record_index = 1
 
