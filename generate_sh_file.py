@@ -109,7 +109,7 @@ for dataset in dataset_list:
 
 print('trian_num is {0}'.format(train_num))
 print('test_num is {0}'.format(test_num))
-total_file_num = 10
+total_file_num = 4
 total_length = len(command_list)
 start = 0
 offset = math.ceil(float(total_length)/total_file_num)
